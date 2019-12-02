@@ -1,0 +1,2310 @@
+{
+  "Tailspin.SpaceGame.Web.dll": {
+    "C:\\Users\\noah.zemp\\source\\repos\\Study\\mslearn-tailspin-spacegame-web\\Tailspin.SpaceGame.Web\\LocalDocumentDBRepository.cs": {
+      "TailSpin.SpaceGame.Web.LocalDocumentDBRepository`1": {
+        "System.Threading.Tasks.Task`1<T> TailSpin.SpaceGame.Web.LocalDocumentDBRepository`1::GetItemAsync(System.String)": {
+          "Lines": {
+            "38": 0,
+            "39": 0,
+            "40": 0
+          },
+          "Branches": []
+        },
+        "System.Threading.Tasks.Task`1<System.Collections.Generic.IEnumerable`1<T>> TailSpin.SpaceGame.Web.LocalDocumentDBRepository`1::GetItemsAsync(System.Linq.Expressions.Expression`1<System.Func`2<T,System.Boolean>>,System.Linq.Expressions.Expression`1<System.Func`2<T,System.Int32>>,System.Int32,System.Int32)": {
+          "Lines": {
+            "59": 5,
+            "60": 5,
+            "61": 5,
+            "62": 5,
+            "63": 5,
+            "64": 5,
+            "65": 5,
+            "67": 5,
+            "68": 5
+          },
+          "Branches": []
+        },
+        "System.Threading.Tasks.Task`1<System.Int32> TailSpin.SpaceGame.Web.LocalDocumentDBRepository`1::CountItemsAsync(System.Linq.Expressions.Expression`1<System.Func`2<T,System.Boolean>>)": {
+          "Lines": {
+            "79": 0,
+            "80": 0,
+            "81": 0,
+            "82": 0,
+            "84": 0,
+            "85": 0
+          },
+          "Branches": []
+        },
+        "System.Void TailSpin.SpaceGame.Web.LocalDocumentDBRepository`1::.ctor(System.String)": {
+          "Lines": {
+            "17": 0,
+            "18": 0,
+            "20": 0,
+            "21": 0
+          },
+          "Branches": []
+        },
+        "System.Void TailSpin.SpaceGame.Web.LocalDocumentDBRepository`1::.ctor(System.IO.Stream)": {
+          "Lines": {
+            "23": 5,
+            "24": 5,
+            "26": 5,
+            "27": 5
+          },
+          "Branches": []
+        }
+      }
+    },
+    "C:\\Users\\noah.zemp\\source\\repos\\Study\\mslearn-tailspin-spacegame-web\\Tailspin.SpaceGame.Web\\Program.cs": {
+      "TailSpin.SpaceGame.Web.Program": {
+        "System.Void TailSpin.SpaceGame.Web.Program::Main(System.String[])": {
+          "Lines": {
+            "9": 0,
+            "10": 0,
+            "11": 0
+          },
+          "Branches": []
+        },
+        "Microsoft.AspNetCore.Hosting.IWebHostBuilder TailSpin.SpaceGame.Web.Program::CreateWebHostBuilder(System.String[])": {
+          "Lines": {
+            "14": 0,
+            "15": 0
+          },
+          "Branches": []
+        }
+      }
+    },
+    "C:\\Users\\noah.zemp\\source\\repos\\Study\\mslearn-tailspin-spacegame-web\\Tailspin.SpaceGame.Web\\Startup.cs": {
+      "TailSpin.SpaceGame.Web.Startup": {
+        "Microsoft.Extensions.Configuration.IConfiguration TailSpin.SpaceGame.Web.Startup::get_Configuration()": {
+          "Lines": {
+            "18": 0
+          },
+          "Branches": []
+        },
+        "System.Void TailSpin.SpaceGame.Web.Startup::ConfigureServices(Microsoft.Extensions.DependencyInjection.IServiceCollection)": {
+          "Lines": {
+            "22": 0,
+            "23": 0,
+            "24": 0,
+            "25": 0,
+            "26": 0,
+            "27": 0,
+            "28": 0,
+            "30": 0,
+            "33": 0,
+            "34": 0,
+            "35": 0
+          },
+          "Branches": [
+            {
+              "Line": 23,
+              "Offset": 8,
+              "EndOffset": 10,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 0
+            },
+            {
+              "Line": 23,
+              "Offset": 8,
+              "EndOffset": 33,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 0
+            }
+          ]
+        },
+        "System.Void TailSpin.SpaceGame.Web.Startup::Configure(Microsoft.AspNetCore.Builder.IApplicationBuilder,Microsoft.AspNetCore.Hosting.IHostingEnvironment)": {
+          "Lines": {
+            "39": 0,
+            "40": 0,
+            "41": 0,
+            "42": 0,
+            "43": 0,
+            "45": 0,
+            "46": 0,
+            "47": 0,
+            "48": 0,
+            "50": 0,
+            "51": 0,
+            "52": 0,
+            "54": 0,
+            "55": 0,
+            "56": 0,
+            "57": 0,
+            "58": 0,
+            "59": 0,
+            "60": 0
+          },
+          "Branches": [
+            {
+              "Line": 40,
+              "Offset": 9,
+              "EndOffset": 11,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 0
+            },
+            {
+              "Line": 40,
+              "Offset": 9,
+              "EndOffset": 22,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 0
+            },
+            {
+              "Line": 54,
+              "Offset": 71,
+              "EndOffset": 73,
+              "Path": 0,
+              "Ordinal": 2,
+              "Hits": 0
+            },
+            {
+              "Line": 54,
+              "Offset": 71,
+              "EndOffset": 96,
+              "Path": 1,
+              "Ordinal": 3,
+              "Hits": 0
+            }
+          ]
+        },
+        "System.Void TailSpin.SpaceGame.Web.Startup::.ctor(Microsoft.Extensions.Configuration.IConfiguration)": {
+          "Lines": {
+            "13": 0,
+            "14": 0,
+            "15": 0,
+            "16": 0
+          },
+          "Branches": []
+        }
+      },
+      "TailSpin.SpaceGame.Web.Startup/<>c": {
+        "System.Void TailSpin.SpaceGame.Web.Startup/<>c::<ConfigureServices>b__4_0(Microsoft.AspNetCore.Builder.CookiePolicyOptions)": {
+          "Lines": {},
+          "Branches": [
+            {
+              "Line": 26,
+              "Offset": 8,
+              "EndOffset": 10,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 0
+            },
+            {
+              "Line": 26,
+              "Offset": 8,
+              "EndOffset": 33,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 0
+            }
+          ]
+        }
+      }
+    },
+    "C:\\Users\\noah.zemp\\source\\repos\\Study\\mslearn-tailspin-spacegame-web\\Tailspin.SpaceGame.Web\\Models\\ErrorViewModel.cs": {
+      "TailSpin.SpaceGame.Web.Models.ErrorViewModel": {
+        "System.String TailSpin.SpaceGame.Web.Models.ErrorViewModel::get_RequestId()": {
+          "Lines": {
+            "5": 0
+          },
+          "Branches": []
+        },
+        "System.Boolean TailSpin.SpaceGame.Web.Models.ErrorViewModel::get_ShowRequestId()": {
+          "Lines": {
+            "7": 0
+          },
+          "Branches": []
+        }
+      }
+    },
+    "C:\\Users\\noah.zemp\\source\\repos\\Study\\mslearn-tailspin-spacegame-web\\Tailspin.SpaceGame.Web\\Models\\LeaderboardViewModel.cs": {
+      "TailSpin.SpaceGame.Web.Models.LeaderboardViewModel": {
+        "System.String TailSpin.SpaceGame.Web.Models.LeaderboardViewModel::get_SelectedMode()": {
+          "Lines": {
+            "8": 0
+          },
+          "Branches": []
+        },
+        "System.String TailSpin.SpaceGame.Web.Models.LeaderboardViewModel::get_SelectedRegion()": {
+          "Lines": {
+            "10": 0
+          },
+          "Branches": []
+        },
+        "System.Int32 TailSpin.SpaceGame.Web.Models.LeaderboardViewModel::get_Page()": {
+          "Lines": {
+            "12": 0
+          },
+          "Branches": []
+        },
+        "System.Int32 TailSpin.SpaceGame.Web.Models.LeaderboardViewModel::get_PageSize()": {
+          "Lines": {
+            "14": 0
+          },
+          "Branches": []
+        },
+        "System.Collections.Generic.IEnumerable`1<TailSpin.SpaceGame.Web.Models.ScoreProfile> TailSpin.SpaceGame.Web.Models.LeaderboardViewModel::get_Scores()": {
+          "Lines": {
+            "17": 0
+          },
+          "Branches": []
+        },
+        "System.Collections.Generic.IEnumerable`1<System.String> TailSpin.SpaceGame.Web.Models.LeaderboardViewModel::get_GameModes()": {
+          "Lines": {
+            "19": 0
+          },
+          "Branches": []
+        },
+        "System.Collections.Generic.IEnumerable`1<System.String> TailSpin.SpaceGame.Web.Models.LeaderboardViewModel::get_GameRegions()": {
+          "Lines": {
+            "21": 0
+          },
+          "Branches": []
+        },
+        "System.String TailSpin.SpaceGame.Web.Models.LeaderboardViewModel::get_PrevLink()": {
+          "Lines": {
+            "25": 0
+          },
+          "Branches": []
+        },
+        "System.String TailSpin.SpaceGame.Web.Models.LeaderboardViewModel::get_NextLink()": {
+          "Lines": {
+            "28": 0
+          },
+          "Branches": []
+        },
+        "System.Int32 TailSpin.SpaceGame.Web.Models.LeaderboardViewModel::get_TotalResults()": {
+          "Lines": {
+            "30": 0
+          },
+          "Branches": []
+        }
+      }
+    },
+    "C:\\Users\\noah.zemp\\source\\repos\\Study\\mslearn-tailspin-spacegame-web\\Tailspin.SpaceGame.Web\\Models\\Model.cs": {
+      "TailSpin.SpaceGame.Web.Models.Model": {
+        "System.String TailSpin.SpaceGame.Web.Models.Model::get_Id()": {
+          "Lines": {
+            "12": 125
+          },
+          "Branches": []
+        }
+      }
+    },
+    "C:\\Users\\noah.zemp\\source\\repos\\Study\\mslearn-tailspin-spacegame-web\\Tailspin.SpaceGame.Web\\Models\\Profile.cs": {
+      "TailSpin.SpaceGame.Web.Models.Profile": {
+        "System.String TailSpin.SpaceGame.Web.Models.Profile::get_UserName()": {
+          "Lines": {
+            "9": 0
+          },
+          "Branches": []
+        },
+        "System.String TailSpin.SpaceGame.Web.Models.Profile::get_AvatarUrl()": {
+          "Lines": {
+            "13": 0
+          },
+          "Branches": []
+        },
+        "System.String[] TailSpin.SpaceGame.Web.Models.Profile::get_Achievements()": {
+          "Lines": {
+            "17": 0
+          },
+          "Branches": []
+        }
+      }
+    },
+    "C:\\Users\\noah.zemp\\source\\repos\\Study\\mslearn-tailspin-spacegame-web\\Tailspin.SpaceGame.Web\\Models\\Score.cs": {
+      "TailSpin.SpaceGame.Web.Models.Score": {
+        "System.String TailSpin.SpaceGame.Web.Models.Score::get_ProfileId()": {
+          "Lines": {
+            "9": 125
+          },
+          "Branches": []
+        },
+        "System.Int32 TailSpin.SpaceGame.Web.Models.Score::get_HighScore()": {
+          "Lines": {
+            "13": 125
+          },
+          "Branches": []
+        },
+        "System.String TailSpin.SpaceGame.Web.Models.Score::get_GameMode()": {
+          "Lines": {
+            "17": 125
+          },
+          "Branches": []
+        },
+        "System.String TailSpin.SpaceGame.Web.Models.Score::get_GameRegion()": {
+          "Lines": {
+            "21": 271
+          },
+          "Branches": []
+        }
+      }
+    },
+    "C:\\Users\\noah.zemp\\source\\repos\\Study\\mslearn-tailspin-spacegame-web\\Tailspin.SpaceGame.Web\\Controllers\\HomeController.cs": {
+      "TailSpin.SpaceGame.Web.Controllers.HomeController": {
+        "Microsoft.AspNetCore.Mvc.IActionResult TailSpin.SpaceGame.Web.Controllers.HomeController::Privacy()": {
+          "Lines": {
+            "129": 0,
+            "130": 0,
+            "131": 0
+          },
+          "Branches": []
+        },
+        "Microsoft.AspNetCore.Mvc.IActionResult TailSpin.SpaceGame.Web.Controllers.HomeController::Error()": {
+          "Lines": {
+            "135": 0,
+            "136": 0,
+            "137": 0
+          },
+          "Branches": [
+            {
+              "Line": 136,
+              "Offset": 14,
+              "EndOffset": 16,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 0
+            },
+            {
+              "Line": 136,
+              "Offset": 14,
+              "EndOffset": 20,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 0
+            },
+            {
+              "Line": 136,
+              "Offset": 26,
+              "EndOffset": 28,
+              "Path": 0,
+              "Ordinal": 2,
+              "Hits": 0
+            },
+            {
+              "Line": 136,
+              "Offset": 26,
+              "EndOffset": 40,
+              "Path": 1,
+              "Ordinal": 3,
+              "Hits": 0
+            }
+          ]
+        },
+        "System.Void TailSpin.SpaceGame.Web.Controllers.HomeController::.ctor(TailSpin.SpaceGame.Web.IDocumentDBRepository`1<TailSpin.SpaceGame.Web.Models.Score>,TailSpin.SpaceGame.Web.IDocumentDBRepository`1<TailSpin.SpaceGame.Web.Models.Profile>)": {
+          "Lines": {
+            "19": 0,
+            "20": 0,
+            "21": 0,
+            "22": 0,
+            "23": 0,
+            "24": 0,
+            "25": 0,
+            "26": 0
+          },
+          "Branches": []
+        }
+      },
+      "TailSpin.SpaceGame.Web.Controllers.HomeController/<>c": {
+        "TailSpin.SpaceGame.Web.Models.ScoreProfile TailSpin.SpaceGame.Web.Controllers.HomeController/<>c::<Index>b__3_1(TailSpin.SpaceGame.Web.Models.Score,System.Threading.Tasks.Task`1<TailSpin.SpaceGame.Web.Models.Profile>)": {
+          "Lines": {
+            "104": 0
+          },
+          "Branches": []
+        }
+      },
+      "TailSpin.SpaceGame.Web.Controllers.HomeController/<Index>d__3": {
+        "System.Void TailSpin.SpaceGame.Web.Controllers.HomeController/<Index>d__3::MoveNext()": {
+          "Lines": {
+            "34": 0,
+            "36": 0,
+            "37": 0,
+            "38": 0,
+            "39": 0,
+            "40": 0,
+            "41": 0,
+            "42": 0,
+            "43": 0,
+            "44": 0,
+            "45": 0,
+            "46": 0,
+            "47": 0,
+            "48": 0,
+            "49": 0,
+            "50": 0,
+            "51": 0,
+            "52": 0,
+            "53": 0,
+            "54": 0,
+            "55": 0,
+            "56": 0,
+            "57": 0,
+            "58": 0,
+            "61": 0,
+            "66": 0,
+            "67": 0,
+            "68": 0,
+            "71": 0,
+            "74": 0,
+            "75": 0,
+            "76": 0,
+            "77": 0,
+            "78": 0,
+            "79": 0,
+            "82": 0,
+            "85": 0,
+            "86": 0,
+            "87": 0,
+            "88": 0,
+            "89": 0,
+            "90": 0,
+            "91": 0,
+            "92": 0,
+            "96": 0,
+            "97": 0,
+            "98": 0,
+            "99": 0,
+            "100": 0,
+            "101": 0,
+            "106": 0,
+            "108": 0,
+            "109": 0,
+            "110": 0,
+            "112": 0
+          },
+          "Branches": [
+            {
+              "Line": 36,
+              "Offset": 259,
+              "EndOffset": 263,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 0
+            },
+            {
+              "Line": 36,
+              "Offset": 265,
+              "EndOffset": 279,
+              "Path": 0,
+              "Ordinal": 2,
+              "Hits": 0
+            },
+            {
+              "Line": 74,
+              "Offset": 727,
+              "EndOffset": 729,
+              "Path": 0,
+              "Ordinal": 4,
+              "Hits": 0
+            },
+            {
+              "Line": 36,
+              "Offset": 259,
+              "EndOffset": 769,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 0
+            },
+            {
+              "Line": 74,
+              "Offset": 727,
+              "EndOffset": 797,
+              "Path": 1,
+              "Ordinal": 5,
+              "Hits": 0
+            },
+            {
+              "Line": 82,
+              "Offset": 861,
+              "EndOffset": 863,
+              "Path": 0,
+              "Ordinal": 6,
+              "Hits": 0
+            },
+            {
+              "Line": 36,
+              "Offset": 265,
+              "EndOffset": 904,
+              "Path": 1,
+              "Ordinal": 3,
+              "Hits": 0
+            },
+            {
+              "Line": 82,
+              "Offset": 861,
+              "EndOffset": 933,
+              "Path": 1,
+              "Ordinal": 7,
+              "Hits": 0
+            },
+            {
+              "Line": 85,
+              "Offset": 984,
+              "EndOffset": 986,
+              "Path": 0,
+              "Ordinal": 8,
+              "Hits": 0
+            },
+            {
+              "Line": 85,
+              "Offset": 984,
+              "EndOffset": 1074,
+              "Path": 1,
+              "Ordinal": 9,
+              "Hits": 0
+            },
+            {
+              "Line": 89,
+              "Offset": 1104,
+              "EndOffset": 1106,
+              "Path": 0,
+              "Ordinal": 10,
+              "Hits": 0
+            },
+            {
+              "Line": 89,
+              "Offset": 1104,
+              "EndOffset": 1194,
+              "Path": 1,
+              "Ordinal": 11,
+              "Hits": 0
+            },
+            {
+              "Line": 97,
+              "Offset": 1301,
+              "EndOffset": 1225,
+              "Path": 1,
+              "Ordinal": 13,
+              "Hits": 0
+            },
+            {
+              "Line": 97,
+              "Offset": 1301,
+              "EndOffset": 1303,
+              "Path": 0,
+              "Ordinal": 12,
+              "Hits": 0
+            },
+            {
+              "Line": 104,
+              "Offset": 1382,
+              "EndOffset": 1384,
+              "Path": 0,
+              "Ordinal": 14,
+              "Hits": 0
+            },
+            {
+              "Line": 104,
+              "Offset": 1382,
+              "EndOffset": 1407,
+              "Path": 1,
+              "Ordinal": 15,
+              "Hits": 0
+            }
+          ]
+        }
+      },
+      "TailSpin.SpaceGame.Web.Controllers.HomeController/<Profile>d__4": {
+        "System.Void TailSpin.SpaceGame.Web.Controllers.HomeController/<Profile>d__4::MoveNext()": {
+          "Lines": {
+            "116": 0,
+            "118": 0,
+            "120": 0,
+            "122": 0,
+            "123": 0,
+            "124": 0,
+            "126": 0
+          },
+          "Branches": [
+            {
+              "Line": 116,
+              "Offset": 17,
+              "EndOffset": 23,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 0
+            },
+            {
+              "Line": 120,
+              "Offset": 70,
+              "EndOffset": 72,
+              "Path": 0,
+              "Ordinal": 2,
+              "Hits": 0
+            },
+            {
+              "Line": 116,
+              "Offset": 17,
+              "EndOffset": 111,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 0
+            },
+            {
+              "Line": 120,
+              "Offset": 70,
+              "EndOffset": 139,
+              "Path": 1,
+              "Ordinal": 3,
+              "Hits": 0
+            }
+          ]
+        }
+      }
+    }
+  },
+  "Tailspin.SpaceGame.Web.Tests.dll": {
+    "C:\\Users\\noah.zemp\\source\\repos\\Study\\mslearn-tailspin-spacegame-web\\Tailspin.SpaceGame.Web.Tests\\obj\\Debug\\netcoreapp2.1\\Tailspin.SpaceGame.Web.Tests.Program.cs": {
+      "AutoGeneratedProgram": {
+        "System.Void AutoGeneratedProgram::Main(System.String[])": {
+          "Lines": {
+            "4": 0
+          },
+          "Branches": []
+        }
+      }
+    },
+    "C:\\Users\\noah.zemp\\source\\repos\\Study\\mslearn-tailspin-spacegame-web\\Tailspin.SpaceGame.Web.Tests\\DocumentDBRepository_GetItemsAsyncShould.cs": {
+      "Tests.DocumentDBRepository_GetItemsAsyncShould": {
+        "System.Void Tests.DocumentDBRepository_GetItemsAsyncShould::Setup()": {
+          "Lines": {
+            "18": 5,
+            "19": 5,
+            "20": 5,
+            "21": 5,
+            "22": 5,
+            "23": 5,
+            "24": 5,
+            "25": 5
+          },
+          "Branches": []
+        },
+        "System.Void Tests.DocumentDBRepository_GetItemsAsyncShould::FetchOnlyRequestedGameRegion(System.String)": {
+          "Lines": {
+            "33": 5,
+            "39": 5,
+            "42": 5,
+            "43": 5,
+            "44": 5,
+            "45": 5,
+            "46": 5,
+            "47": 5,
+            "48": 5,
+            "51": 26,
+            "52": 5
+          },
+          "Branches": []
+        }
+      }
+    }
+  },
+  "Tailspin.SpaceGame.Web.Views.dll": {
+    "C:\\Users\\noah.zemp\\source\\repos\\Study\\mslearn-tailspin-spacegame-web\\Tailspin.SpaceGame.Web\\Views\\Home\\Index.cshtml": {
+      "AspNetCore.Views_Home_Index/<ExecuteAsync>d__8": {
+        "System.Void AspNetCore.Views_Home_Index/<ExecuteAsync>d__8::MoveNext()": {
+          "Lines": {
+            "3": 0,
+            "57": 0,
+            "58": 0,
+            "60": 0,
+            "62": 0,
+            "63": 0,
+            "64": 0,
+            "67": 0,
+            "71": 0,
+            "72": 0,
+            "73": 0,
+            "75": 0,
+            "81": 0,
+            "84": 0,
+            "87": 0,
+            "90": 0,
+            "94": 0,
+            "95": 0,
+            "97": 0,
+            "99": 0,
+            "100": 0,
+            "101": 0,
+            "103": 0,
+            "104": 0,
+            "105": 0,
+            "106": 0,
+            "107": 0,
+            "109": 0,
+            "110": 0,
+            "111": 0,
+            "112": 0,
+            "113": 0,
+            "117": 0,
+            "119": 0,
+            "120": 0,
+            "122": 0,
+            "124": 0,
+            "125": 0,
+            "126": 0,
+            "136": 0,
+            "137": 0,
+            "139": 0,
+            "141": 0,
+            "143": 0,
+            "145": 0,
+            "147": 0,
+            "148": 0,
+            "149": 0,
+            "150": 0,
+            "151": 0,
+            "152": 0,
+            "154": 0,
+            "155": 0,
+            "156": 0,
+            "157": 0,
+            "165": 0,
+            "166": 0,
+            "168": 0,
+            "170": 0,
+            "171": 0,
+            "172": 0,
+            "175": 0,
+            "176": 0,
+            "177": 0,
+            "178": 0,
+            "179": 0,
+            "180": 0,
+            "182": 0,
+            "183": 0,
+            "184": 0,
+            "185": 0,
+            "211": 0
+          },
+          "Branches": [
+            {
+              "Line": 57,
+              "Offset": 138,
+              "EndOffset": 140,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 0
+            },
+            {
+              "Line": 57,
+              "Offset": 138,
+              "EndOffset": 191,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 0
+            },
+            {
+              "Line": 63,
+              "Offset": 264,
+              "EndOffset": 268,
+              "Path": 0,
+              "Ordinal": 2,
+              "Hits": 0
+            },
+            {
+              "Line": 63,
+              "Offset": 1977,
+              "EndOffset": 289,
+              "Path": 1,
+              "Ordinal": 15,
+              "Hits": 0
+            },
+            {
+              "Line": 67,
+              "Offset": 530,
+              "EndOffset": 532,
+              "Path": 0,
+              "Ordinal": 6,
+              "Hits": 0
+            },
+            {
+              "Line": 67,
+              "Offset": 530,
+              "EndOffset": 555,
+              "Path": 1,
+              "Ordinal": 7,
+              "Hits": 0
+            },
+            {
+              "Line": 71,
+              "Offset": 809,
+              "EndOffset": 811,
+              "Path": 0,
+              "Ordinal": 8,
+              "Hits": 0
+            },
+            {
+              "Line": 63,
+              "Offset": 264,
+              "EndOffset": 851,
+              "Path": 1,
+              "Ordinal": 3,
+              "Hits": 0
+            },
+            {
+              "Line": 71,
+              "Offset": 809,
+              "EndOffset": 879,
+              "Path": 1,
+              "Ordinal": 9,
+              "Hits": 0
+            },
+            {
+              "Line": 71,
+              "Offset": 915,
+              "EndOffset": 917,
+              "Path": 0,
+              "Ordinal": 10,
+              "Hits": 0
+            },
+            {
+              "Line": 71,
+              "Offset": 948,
+              "EndOffset": 950,
+              "Path": 0,
+              "Ordinal": 12,
+              "Hits": 0
+            },
+            {
+              "Line": 63,
+              "Offset": 270,
+              "EndOffset": 991,
+              "Path": 1,
+              "Ordinal": 5,
+              "Hits": 0
+            },
+            {
+              "Line": 71,
+              "Offset": 948,
+              "EndOffset": 1020,
+              "Path": 1,
+              "Ordinal": 13,
+              "Hits": 0
+            },
+            {
+              "Line": 71,
+              "Offset": 915,
+              "EndOffset": 1029,
+              "Path": 1,
+              "Ordinal": 11,
+              "Hits": 0
+            },
+            {
+              "Line": 63,
+              "Offset": 270,
+              "EndOffset": 1966,
+              "Path": 0,
+              "Ordinal": 4,
+              "Hits": 0
+            },
+            {
+              "Line": 63,
+              "Offset": 1977,
+              "EndOffset": 1982,
+              "Path": 0,
+              "Ordinal": 14,
+              "Hits": 0
+            },
+            {
+              "Line": 94,
+              "Offset": 2090,
+              "EndOffset": 2092,
+              "Path": 0,
+              "Ordinal": 16,
+              "Hits": 0
+            },
+            {
+              "Line": 94,
+              "Offset": 2090,
+              "EndOffset": 2148,
+              "Path": 1,
+              "Ordinal": 17,
+              "Hits": 0
+            },
+            {
+              "Line": 104,
+              "Offset": 2472,
+              "EndOffset": 2474,
+              "Path": 0,
+              "Ordinal": 18,
+              "Hits": 0
+            },
+            {
+              "Line": 104,
+              "Offset": 2472,
+              "EndOffset": 2492,
+              "Path": 1,
+              "Ordinal": 19,
+              "Hits": 0
+            },
+            {
+              "Line": 109,
+              "Offset": 3115,
+              "EndOffset": 2504,
+              "Path": 1,
+              "Ordinal": 23,
+              "Hits": 0
+            },
+            {
+              "Line": 111,
+              "Offset": 2630,
+              "EndOffset": 2632,
+              "Path": 0,
+              "Ordinal": 20,
+              "Hits": 0
+            },
+            {
+              "Line": 111,
+              "Offset": 2630,
+              "EndOffset": 2635,
+              "Path": 1,
+              "Ordinal": 21,
+              "Hits": 0
+            },
+            {
+              "Line": 109,
+              "Offset": 3115,
+              "EndOffset": 3120,
+              "Path": 0,
+              "Ordinal": 22,
+              "Hits": 0
+            },
+            {
+              "Line": 119,
+              "Offset": 3194,
+              "EndOffset": 3196,
+              "Path": 0,
+              "Ordinal": 24,
+              "Hits": 0
+            },
+            {
+              "Line": 119,
+              "Offset": 3194,
+              "EndOffset": 3252,
+              "Path": 1,
+              "Ordinal": 25,
+              "Hits": 0
+            },
+            {
+              "Line": 136,
+              "Offset": 3525,
+              "EndOffset": 3527,
+              "Path": 0,
+              "Ordinal": 26,
+              "Hits": 0
+            },
+            {
+              "Line": 136,
+              "Offset": 3525,
+              "EndOffset": 3583,
+              "Path": 1,
+              "Ordinal": 27,
+              "Hits": 0
+            },
+            {
+              "Line": 147,
+              "Offset": 4588,
+              "EndOffset": 3931,
+              "Path": 1,
+              "Ordinal": 31,
+              "Hits": 0
+            },
+            {
+              "Line": 149,
+              "Offset": 3980,
+              "EndOffset": 3985,
+              "Path": 0,
+              "Ordinal": 28,
+              "Hits": 0
+            },
+            {
+              "Line": 149,
+              "Offset": 3980,
+              "EndOffset": 4138,
+              "Path": 1,
+              "Ordinal": 29,
+              "Hits": 0
+            },
+            {
+              "Line": 147,
+              "Offset": 4588,
+              "EndOffset": 4593,
+              "Path": 0,
+              "Ordinal": 30,
+              "Hits": 0
+            },
+            {
+              "Line": 165,
+              "Offset": 4704,
+              "EndOffset": 4706,
+              "Path": 0,
+              "Ordinal": 32,
+              "Hits": 0
+            },
+            {
+              "Line": 165,
+              "Offset": 4704,
+              "EndOffset": 4762,
+              "Path": 1,
+              "Ordinal": 33,
+              "Hits": 0
+            },
+            {
+              "Line": 175,
+              "Offset": 5765,
+              "EndOffset": 5108,
+              "Path": 1,
+              "Ordinal": 37,
+              "Hits": 0
+            },
+            {
+              "Line": 177,
+              "Offset": 5157,
+              "EndOffset": 5162,
+              "Path": 0,
+              "Ordinal": 34,
+              "Hits": 0
+            },
+            {
+              "Line": 177,
+              "Offset": 5157,
+              "EndOffset": 5315,
+              "Path": 1,
+              "Ordinal": 35,
+              "Hits": 0
+            },
+            {
+              "Line": 175,
+              "Offset": 5765,
+              "EndOffset": 5770,
+              "Path": 0,
+              "Ordinal": 36,
+              "Hits": 0
+            }
+          ]
+        }
+      }
+    },
+    "C:\\Users\\noah.zemp\\source\\repos\\Study\\mslearn-tailspin-spacegame-web\\Tailspin.SpaceGame.Web\\Views\\Home\\Privacy.cshtml": {
+      "AspNetCore.Views_Home_Privacy/<ExecuteAsync>d__0": {
+        "System.Void AspNetCore.Views_Home_Privacy/<ExecuteAsync>d__0::MoveNext()": {
+          "Lines": {
+            "2": 0,
+            "4": 0
+          },
+          "Branches": []
+        }
+      }
+    },
+    "C:\\Users\\noah.zemp\\source\\repos\\Study\\mslearn-tailspin-spacegame-web\\Tailspin.SpaceGame.Web\\Views\\Home\\Profile.cshtml": {
+      "AspNetCore.Views_Home_Profile/<ExecuteAsync>d__0": {
+        "System.Void AspNetCore.Views_Home_Profile/<ExecuteAsync>d__0::MoveNext()": {
+          "Lines": {
+            "3": 0,
+            "5": 0,
+            "15": 0,
+            "20": 0,
+            "21": 0,
+            "24": 0,
+            "25": 0,
+            "26": 0,
+            "27": 0
+          },
+          "Branches": []
+        }
+      }
+    },
+    "C:\\Users\\noah.zemp\\source\\repos\\Study\\mslearn-tailspin-spacegame-web\\Tailspin.SpaceGame.Web\\Views\\Shared\\Error.cshtml": {
+      "AspNetCore.Views_Shared_Error/<ExecuteAsync>d__0": {
+        "System.Void AspNetCore.Views_Shared_Error/<ExecuteAsync>d__0::MoveNext()": {
+          "Lines": {
+            "3": 0,
+            "9": 0,
+            "10": 0,
+            "12": 0,
+            "14": 0
+          },
+          "Branches": []
+        }
+      }
+    },
+    "C:\\Users\\noah.zemp\\source\\repos\\Study\\mslearn-tailspin-spacegame-web\\Tailspin.SpaceGame.Web\\Views\\Shared\\_CookieConsentPartial.cshtml": {
+      "AspNetCore.Views_Shared__CookieConsentPartial/<ExecuteAsync>d__10": {
+        "System.Void AspNetCore.Views_Shared__CookieConsentPartial/<ExecuteAsync>d__10::MoveNext()": {
+          "Lines": {
+            "4": 0,
+            "5": 0,
+            "6": 0,
+            "7": 0,
+            "10": 0,
+            "11": 0,
+            "29": 0,
+            "42": 0
+          },
+          "Branches": [
+            {
+              "Line": 4,
+              "Offset": 14,
+              "EndOffset": 28,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 0
+            },
+            {
+              "Line": 6,
+              "Offset": 109,
+              "EndOffset": 111,
+              "Path": 0,
+              "Ordinal": 2,
+              "Hits": 0
+            },
+            {
+              "Line": 6,
+              "Offset": 109,
+              "EndOffset": 115,
+              "Path": 1,
+              "Ordinal": 3,
+              "Hits": 0
+            },
+            {
+              "Line": 7,
+              "Offset": 136,
+              "EndOffset": 138,
+              "Path": 0,
+              "Ordinal": 4,
+              "Hits": 0
+            },
+            {
+              "Line": 7,
+              "Offset": 136,
+              "EndOffset": 142,
+              "Path": 1,
+              "Ordinal": 5,
+              "Hits": 0
+            },
+            {
+              "Line": 10,
+              "Offset": 208,
+              "EndOffset": 213,
+              "Path": 0,
+              "Ordinal": 6,
+              "Hits": 0
+            },
+            {
+              "Line": 11,
+              "Offset": 561,
+              "EndOffset": 563,
+              "Path": 0,
+              "Ordinal": 8,
+              "Hits": 0
+            },
+            {
+              "Line": 11,
+              "Offset": 561,
+              "EndOffset": 630,
+              "Path": 1,
+              "Ordinal": 9,
+              "Hits": 0
+            },
+            {
+              "Line": 11,
+              "Offset": 666,
+              "EndOffset": 668,
+              "Path": 0,
+              "Ordinal": 10,
+              "Hits": 0
+            },
+            {
+              "Line": 11,
+              "Offset": 699,
+              "EndOffset": 701,
+              "Path": 0,
+              "Ordinal": 12,
+              "Hits": 0
+            },
+            {
+              "Line": 4,
+              "Offset": 14,
+              "EndOffset": 741,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 0
+            },
+            {
+              "Line": 11,
+              "Offset": 699,
+              "EndOffset": 770,
+              "Path": 1,
+              "Ordinal": 13,
+              "Hits": 0
+            },
+            {
+              "Line": 11,
+              "Offset": 666,
+              "EndOffset": 779,
+              "Path": 1,
+              "Ordinal": 11,
+              "Hits": 0
+            },
+            {
+              "Line": 10,
+              "Offset": 208,
+              "EndOffset": 998,
+              "Path": 1,
+              "Ordinal": 7,
+              "Hits": 0
+            }
+          ]
+        }
+      }
+    },
+    "C:\\Users\\noah.zemp\\source\\repos\\Study\\mslearn-tailspin-spacegame-web\\Tailspin.SpaceGame.Web\\Views\\Shared\\_Layout.cshtml": {
+      "AspNetCore.Views_Shared__Layout/<<ExecuteAsync>b__38_3>d": {
+        "System.Void AspNetCore.Views_Shared__Layout/<<ExecuteAsync>b__38_3>d::MoveNext()": {
+          "Lines": {
+            "16": 0
+          },
+          "Branches": [
+            {
+              "Line": 16,
+              "Offset": 8,
+              "EndOffset": 51,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 0
+            },
+            {
+              "Line": 16,
+              "Offset": 158,
+              "EndOffset": 160,
+              "Path": 0,
+              "Ordinal": 5,
+              "Hits": 0
+            },
+            {
+              "Line": 16,
+              "Offset": 158,
+              "EndOffset": 183,
+              "Path": 1,
+              "Ordinal": 6,
+              "Hits": 0
+            },
+            {
+              "Line": 16,
+              "Offset": 575,
+              "EndOffset": 577,
+              "Path": 0,
+              "Ordinal": 7,
+              "Hits": 0
+            },
+            {
+              "Line": 16,
+              "Offset": 8,
+              "EndOffset": 616,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 0
+            },
+            {
+              "Line": 16,
+              "Offset": 575,
+              "EndOffset": 644,
+              "Path": 1,
+              "Ordinal": 8,
+              "Hits": 0
+            },
+            {
+              "Line": 16,
+              "Offset": 678,
+              "EndOffset": 680,
+              "Path": 0,
+              "Ordinal": 9,
+              "Hits": 0
+            },
+            {
+              "Line": 16,
+              "Offset": 711,
+              "EndOffset": 713,
+              "Path": 0,
+              "Ordinal": 11,
+              "Hits": 0
+            },
+            {
+              "Line": 16,
+              "Offset": 8,
+              "EndOffset": 753,
+              "Path": 2,
+              "Ordinal": 2,
+              "Hits": 0
+            },
+            {
+              "Line": 16,
+              "Offset": 711,
+              "EndOffset": 782,
+              "Path": 1,
+              "Ordinal": 12,
+              "Hits": 0
+            },
+            {
+              "Line": 16,
+              "Offset": 678,
+              "EndOffset": 791,
+              "Path": 1,
+              "Ordinal": 10,
+              "Hits": 0
+            },
+            {
+              "Line": 16,
+              "Offset": 961,
+              "EndOffset": 963,
+              "Path": 0,
+              "Ordinal": 13,
+              "Hits": 0
+            },
+            {
+              "Line": 16,
+              "Offset": 961,
+              "EndOffset": 986,
+              "Path": 1,
+              "Ordinal": 14,
+              "Hits": 0
+            },
+            {
+              "Line": 16,
+              "Offset": 1280,
+              "EndOffset": 1282,
+              "Path": 0,
+              "Ordinal": 15,
+              "Hits": 0
+            },
+            {
+              "Line": 16,
+              "Offset": 8,
+              "EndOffset": 1322,
+              "Path": 3,
+              "Ordinal": 3,
+              "Hits": 0
+            },
+            {
+              "Line": 16,
+              "Offset": 1280,
+              "EndOffset": 1351,
+              "Path": 1,
+              "Ordinal": 16,
+              "Hits": 0
+            },
+            {
+              "Line": 16,
+              "Offset": 1387,
+              "EndOffset": 1389,
+              "Path": 0,
+              "Ordinal": 17,
+              "Hits": 0
+            },
+            {
+              "Line": 16,
+              "Offset": 1420,
+              "EndOffset": 1422,
+              "Path": 0,
+              "Ordinal": 19,
+              "Hits": 0
+            },
+            {
+              "Line": 16,
+              "Offset": 8,
+              "EndOffset": 1462,
+              "Path": 4,
+              "Ordinal": 4,
+              "Hits": 0
+            },
+            {
+              "Line": 16,
+              "Offset": 1420,
+              "EndOffset": 1491,
+              "Path": 1,
+              "Ordinal": 20,
+              "Hits": 0
+            },
+            {
+              "Line": 16,
+              "Offset": 1387,
+              "EndOffset": 1500,
+              "Path": 1,
+              "Ordinal": 18,
+              "Hits": 0
+            }
+          ]
+        }
+      },
+      "AspNetCore.Views_Shared__Layout/<<ExecuteAsync>b__38_0>d": {
+        "System.Void AspNetCore.Views_Shared__Layout/<<ExecuteAsync>b__38_0>d::MoveNext()": {
+          "Lines": {
+            "6": 0
+          },
+          "Branches": [
+            {
+              "Line": 6,
+              "Offset": 8,
+              "EndOffset": 51,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 0
+            },
+            {
+              "Line": 6,
+              "Offset": 437,
+              "EndOffset": 439,
+              "Path": 0,
+              "Ordinal": 5,
+              "Hits": 0
+            },
+            {
+              "Line": 6,
+              "Offset": 8,
+              "EndOffset": 478,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 0
+            },
+            {
+              "Line": 6,
+              "Offset": 437,
+              "EndOffset": 506,
+              "Path": 1,
+              "Ordinal": 6,
+              "Hits": 0
+            },
+            {
+              "Line": 6,
+              "Offset": 540,
+              "EndOffset": 542,
+              "Path": 0,
+              "Ordinal": 7,
+              "Hits": 0
+            },
+            {
+              "Line": 6,
+              "Offset": 573,
+              "EndOffset": 575,
+              "Path": 0,
+              "Ordinal": 9,
+              "Hits": 0
+            },
+            {
+              "Line": 6,
+              "Offset": 8,
+              "EndOffset": 615,
+              "Path": 2,
+              "Ordinal": 2,
+              "Hits": 0
+            },
+            {
+              "Line": 6,
+              "Offset": 573,
+              "EndOffset": 644,
+              "Path": 1,
+              "Ordinal": 10,
+              "Hits": 0
+            },
+            {
+              "Line": 6,
+              "Offset": 540,
+              "EndOffset": 653,
+              "Path": 1,
+              "Ordinal": 8,
+              "Hits": 0
+            },
+            {
+              "Line": 6,
+              "Offset": 992,
+              "EndOffset": 994,
+              "Path": 0,
+              "Ordinal": 11,
+              "Hits": 0
+            },
+            {
+              "Line": 6,
+              "Offset": 8,
+              "EndOffset": 1034,
+              "Path": 3,
+              "Ordinal": 3,
+              "Hits": 0
+            },
+            {
+              "Line": 6,
+              "Offset": 992,
+              "EndOffset": 1063,
+              "Path": 1,
+              "Ordinal": 12,
+              "Hits": 0
+            },
+            {
+              "Line": 6,
+              "Offset": 1099,
+              "EndOffset": 1101,
+              "Path": 0,
+              "Ordinal": 13,
+              "Hits": 0
+            },
+            {
+              "Line": 6,
+              "Offset": 1132,
+              "EndOffset": 1134,
+              "Path": 0,
+              "Ordinal": 15,
+              "Hits": 0
+            },
+            {
+              "Line": 6,
+              "Offset": 8,
+              "EndOffset": 1174,
+              "Path": 4,
+              "Ordinal": 4,
+              "Hits": 0
+            },
+            {
+              "Line": 6,
+              "Offset": 1132,
+              "EndOffset": 1203,
+              "Path": 1,
+              "Ordinal": 16,
+              "Hits": 0
+            },
+            {
+              "Line": 6,
+              "Offset": 1099,
+              "EndOffset": 1212,
+              "Path": 1,
+              "Ordinal": 14,
+              "Hits": 0
+            }
+          ]
+        }
+      },
+      "AspNetCore.Views_Shared__Layout/<<ExecuteAsync>b__38_9>d": {
+        "System.Void AspNetCore.Views_Shared__Layout/<<ExecuteAsync>b__38_9>d::MoveNext()": {
+          "Lines": {
+            "31": 0
+          },
+          "Branches": [
+            {
+              "Line": 31,
+              "Offset": 8,
+              "EndOffset": 69,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 0
+            },
+            {
+              "Line": 31,
+              "Offset": 173,
+              "EndOffset": 175,
+              "Path": 0,
+              "Ordinal": 7,
+              "Hits": 0
+            },
+            {
+              "Line": 31,
+              "Offset": 173,
+              "EndOffset": 198,
+              "Path": 1,
+              "Ordinal": 8,
+              "Hits": 0
+            },
+            {
+              "Line": 31,
+              "Offset": 320,
+              "EndOffset": 322,
+              "Path": 0,
+              "Ordinal": 9,
+              "Hits": 0
+            },
+            {
+              "Line": 31,
+              "Offset": 8,
+              "EndOffset": 361,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 0
+            },
+            {
+              "Line": 31,
+              "Offset": 320,
+              "EndOffset": 389,
+              "Path": 1,
+              "Ordinal": 10,
+              "Hits": 0
+            },
+            {
+              "Line": 31,
+              "Offset": 423,
+              "EndOffset": 425,
+              "Path": 0,
+              "Ordinal": 11,
+              "Hits": 0
+            },
+            {
+              "Line": 31,
+              "Offset": 456,
+              "EndOffset": 458,
+              "Path": 0,
+              "Ordinal": 13,
+              "Hits": 0
+            },
+            {
+              "Line": 31,
+              "Offset": 8,
+              "EndOffset": 498,
+              "Path": 2,
+              "Ordinal": 2,
+              "Hits": 0
+            },
+            {
+              "Line": 31,
+              "Offset": 456,
+              "EndOffset": 527,
+              "Path": 1,
+              "Ordinal": 14,
+              "Hits": 0
+            },
+            {
+              "Line": 31,
+              "Offset": 423,
+              "EndOffset": 536,
+              "Path": 1,
+              "Ordinal": 12,
+              "Hits": 0
+            },
+            {
+              "Line": 31,
+              "Offset": 706,
+              "EndOffset": 708,
+              "Path": 0,
+              "Ordinal": 15,
+              "Hits": 0
+            },
+            {
+              "Line": 31,
+              "Offset": 706,
+              "EndOffset": 731,
+              "Path": 1,
+              "Ordinal": 16,
+              "Hits": 0
+            },
+            {
+              "Line": 31,
+              "Offset": 854,
+              "EndOffset": 856,
+              "Path": 0,
+              "Ordinal": 17,
+              "Hits": 0
+            },
+            {
+              "Line": 31,
+              "Offset": 8,
+              "EndOffset": 896,
+              "Path": 3,
+              "Ordinal": 3,
+              "Hits": 0
+            },
+            {
+              "Line": 31,
+              "Offset": 854,
+              "EndOffset": 925,
+              "Path": 1,
+              "Ordinal": 18,
+              "Hits": 0
+            },
+            {
+              "Line": 31,
+              "Offset": 961,
+              "EndOffset": 963,
+              "Path": 0,
+              "Ordinal": 19,
+              "Hits": 0
+            },
+            {
+              "Line": 31,
+              "Offset": 994,
+              "EndOffset": 996,
+              "Path": 0,
+              "Ordinal": 21,
+              "Hits": 0
+            },
+            {
+              "Line": 31,
+              "Offset": 8,
+              "EndOffset": 1036,
+              "Path": 4,
+              "Ordinal": 4,
+              "Hits": 0
+            },
+            {
+              "Line": 31,
+              "Offset": 994,
+              "EndOffset": 1065,
+              "Path": 1,
+              "Ordinal": 22,
+              "Hits": 0
+            },
+            {
+              "Line": 31,
+              "Offset": 961,
+              "EndOffset": 1074,
+              "Path": 1,
+              "Ordinal": 20,
+              "Hits": 0
+            },
+            {
+              "Line": 31,
+              "Offset": 1244,
+              "EndOffset": 1246,
+              "Path": 0,
+              "Ordinal": 23,
+              "Hits": 0
+            },
+            {
+              "Line": 31,
+              "Offset": 1244,
+              "EndOffset": 1269,
+              "Path": 1,
+              "Ordinal": 24,
+              "Hits": 0
+            },
+            {
+              "Line": 31,
+              "Offset": 1541,
+              "EndOffset": 1543,
+              "Path": 0,
+              "Ordinal": 25,
+              "Hits": 0
+            },
+            {
+              "Line": 31,
+              "Offset": 8,
+              "EndOffset": 1583,
+              "Path": 5,
+              "Ordinal": 5,
+              "Hits": 0
+            },
+            {
+              "Line": 31,
+              "Offset": 1541,
+              "EndOffset": 1612,
+              "Path": 1,
+              "Ordinal": 26,
+              "Hits": 0
+            },
+            {
+              "Line": 31,
+              "Offset": 1648,
+              "EndOffset": 1650,
+              "Path": 0,
+              "Ordinal": 27,
+              "Hits": 0
+            },
+            {
+              "Line": 31,
+              "Offset": 1681,
+              "EndOffset": 1683,
+              "Path": 0,
+              "Ordinal": 29,
+              "Hits": 0
+            },
+            {
+              "Line": 31,
+              "Offset": 8,
+              "EndOffset": 1723,
+              "Path": 6,
+              "Ordinal": 6,
+              "Hits": 0
+            },
+            {
+              "Line": 31,
+              "Offset": 1681,
+              "EndOffset": 1752,
+              "Path": 1,
+              "Ordinal": 30,
+              "Hits": 0
+            },
+            {
+              "Line": 31,
+              "Offset": 1648,
+              "EndOffset": 1761,
+              "Path": 1,
+              "Ordinal": 28,
+              "Hits": 0
+            }
+          ]
+        }
+      },
+      "AspNetCore.Views_Shared__Layout/<<ExecuteAsync>b__38_10>d": {
+        "System.Void AspNetCore.Views_Shared__Layout/<<ExecuteAsync>b__38_10>d::MoveNext()": {
+          "Lines": {
+            "46": 0
+          },
+          "Branches": [
+            {
+              "Line": 46,
+              "Offset": 8,
+              "EndOffset": 69,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 0
+            },
+            {
+              "Line": 46,
+              "Offset": 493,
+              "EndOffset": 495,
+              "Path": 0,
+              "Ordinal": 7,
+              "Hits": 0
+            },
+            {
+              "Line": 46,
+              "Offset": 8,
+              "EndOffset": 534,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 0
+            },
+            {
+              "Line": 46,
+              "Offset": 493,
+              "EndOffset": 562,
+              "Path": 1,
+              "Ordinal": 8,
+              "Hits": 0
+            },
+            {
+              "Line": 46,
+              "Offset": 596,
+              "EndOffset": 598,
+              "Path": 0,
+              "Ordinal": 9,
+              "Hits": 0
+            },
+            {
+              "Line": 46,
+              "Offset": 629,
+              "EndOffset": 631,
+              "Path": 0,
+              "Ordinal": 11,
+              "Hits": 0
+            },
+            {
+              "Line": 46,
+              "Offset": 8,
+              "EndOffset": 671,
+              "Path": 2,
+              "Ordinal": 2,
+              "Hits": 0
+            },
+            {
+              "Line": 46,
+              "Offset": 629,
+              "EndOffset": 700,
+              "Path": 1,
+              "Ordinal": 12,
+              "Hits": 0
+            },
+            {
+              "Line": 46,
+              "Offset": 596,
+              "EndOffset": 709,
+              "Path": 1,
+              "Ordinal": 10,
+              "Hits": 0
+            },
+            {
+              "Line": 46,
+              "Offset": 1200,
+              "EndOffset": 1202,
+              "Path": 0,
+              "Ordinal": 13,
+              "Hits": 0
+            },
+            {
+              "Line": 46,
+              "Offset": 8,
+              "EndOffset": 1242,
+              "Path": 3,
+              "Ordinal": 3,
+              "Hits": 0
+            },
+            {
+              "Line": 46,
+              "Offset": 1200,
+              "EndOffset": 1271,
+              "Path": 1,
+              "Ordinal": 14,
+              "Hits": 0
+            },
+            {
+              "Line": 46,
+              "Offset": 1307,
+              "EndOffset": 1309,
+              "Path": 0,
+              "Ordinal": 15,
+              "Hits": 0
+            },
+            {
+              "Line": 46,
+              "Offset": 1340,
+              "EndOffset": 1342,
+              "Path": 0,
+              "Ordinal": 17,
+              "Hits": 0
+            },
+            {
+              "Line": 46,
+              "Offset": 8,
+              "EndOffset": 1382,
+              "Path": 4,
+              "Ordinal": 4,
+              "Hits": 0
+            },
+            {
+              "Line": 46,
+              "Offset": 1340,
+              "EndOffset": 1411,
+              "Path": 1,
+              "Ordinal": 18,
+              "Hits": 0
+            },
+            {
+              "Line": 46,
+              "Offset": 1307,
+              "EndOffset": 1420,
+              "Path": 1,
+              "Ordinal": 16,
+              "Hits": 0
+            },
+            {
+              "Line": 46,
+              "Offset": 1590,
+              "EndOffset": 1592,
+              "Path": 0,
+              "Ordinal": 19,
+              "Hits": 0
+            },
+            {
+              "Line": 46,
+              "Offset": 1590,
+              "EndOffset": 1615,
+              "Path": 1,
+              "Ordinal": 20,
+              "Hits": 0
+            },
+            {
+              "Line": 46,
+              "Offset": 1887,
+              "EndOffset": 1889,
+              "Path": 0,
+              "Ordinal": 21,
+              "Hits": 0
+            },
+            {
+              "Line": 46,
+              "Offset": 8,
+              "EndOffset": 1929,
+              "Path": 5,
+              "Ordinal": 5,
+              "Hits": 0
+            },
+            {
+              "Line": 46,
+              "Offset": 1887,
+              "EndOffset": 1958,
+              "Path": 1,
+              "Ordinal": 22,
+              "Hits": 0
+            },
+            {
+              "Line": 46,
+              "Offset": 1994,
+              "EndOffset": 1996,
+              "Path": 0,
+              "Ordinal": 23,
+              "Hits": 0
+            },
+            {
+              "Line": 46,
+              "Offset": 2027,
+              "EndOffset": 2029,
+              "Path": 0,
+              "Ordinal": 25,
+              "Hits": 0
+            },
+            {
+              "Line": 46,
+              "Offset": 8,
+              "EndOffset": 2069,
+              "Path": 6,
+              "Ordinal": 6,
+              "Hits": 0
+            },
+            {
+              "Line": 46,
+              "Offset": 2027,
+              "EndOffset": 2098,
+              "Path": 1,
+              "Ordinal": 26,
+              "Hits": 0
+            },
+            {
+              "Line": 46,
+              "Offset": 1994,
+              "EndOffset": 2107,
+              "Path": 1,
+              "Ordinal": 24,
+              "Hits": 0
+            }
+          ]
+        }
+      },
+      "AspNetCore.Views_Shared__Layout/<<ExecuteAsync>b__38_1>d": {
+        "System.Void AspNetCore.Views_Shared__Layout/<<ExecuteAsync>b__38_1>d::MoveNext()": {
+          "Lines": {
+            "24": 0,
+            "49": 0
+          },
+          "Branches": [
+            {
+              "Line": 24,
+              "Offset": 8,
+              "EndOffset": 69,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 0
+            },
+            {
+              "Line": 24,
+              "Offset": 173,
+              "EndOffset": 175,
+              "Path": 0,
+              "Ordinal": 7,
+              "Hits": 0
+            },
+            {
+              "Line": 24,
+              "Offset": 173,
+              "EndOffset": 198,
+              "Path": 1,
+              "Ordinal": 8,
+              "Hits": 0
+            },
+            {
+              "Line": 24,
+              "Offset": 352,
+              "EndOffset": 354,
+              "Path": 0,
+              "Ordinal": 9,
+              "Hits": 0
+            },
+            {
+              "Line": 24,
+              "Offset": 8,
+              "EndOffset": 393,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 0
+            },
+            {
+              "Line": 24,
+              "Offset": 352,
+              "EndOffset": 421,
+              "Path": 1,
+              "Ordinal": 10,
+              "Hits": 0
+            },
+            {
+              "Line": 24,
+              "Offset": 455,
+              "EndOffset": 457,
+              "Path": 0,
+              "Ordinal": 11,
+              "Hits": 0
+            },
+            {
+              "Line": 24,
+              "Offset": 488,
+              "EndOffset": 490,
+              "Path": 0,
+              "Ordinal": 13,
+              "Hits": 0
+            },
+            {
+              "Line": 24,
+              "Offset": 8,
+              "EndOffset": 530,
+              "Path": 2,
+              "Ordinal": 2,
+              "Hits": 0
+            },
+            {
+              "Line": 24,
+              "Offset": 488,
+              "EndOffset": 559,
+              "Path": 1,
+              "Ordinal": 14,
+              "Hits": 0
+            },
+            {
+              "Line": 24,
+              "Offset": 455,
+              "EndOffset": 568,
+              "Path": 1,
+              "Ordinal": 12,
+              "Hits": 0
+            },
+            {
+              "Line": 24,
+              "Offset": 1011,
+              "EndOffset": 1013,
+              "Path": 0,
+              "Ordinal": 15,
+              "Hits": 0
+            },
+            {
+              "Line": 24,
+              "Offset": 8,
+              "EndOffset": 1053,
+              "Path": 3,
+              "Ordinal": 3,
+              "Hits": 0
+            },
+            {
+              "Line": 24,
+              "Offset": 1011,
+              "EndOffset": 1082,
+              "Path": 1,
+              "Ordinal": 16,
+              "Hits": 0
+            },
+            {
+              "Line": 24,
+              "Offset": 1118,
+              "EndOffset": 1120,
+              "Path": 0,
+              "Ordinal": 17,
+              "Hits": 0
+            },
+            {
+              "Line": 24,
+              "Offset": 1151,
+              "EndOffset": 1153,
+              "Path": 0,
+              "Ordinal": 19,
+              "Hits": 0
+            },
+            {
+              "Line": 24,
+              "Offset": 8,
+              "EndOffset": 1193,
+              "Path": 4,
+              "Ordinal": 4,
+              "Hits": 0
+            },
+            {
+              "Line": 24,
+              "Offset": 1151,
+              "EndOffset": 1222,
+              "Path": 1,
+              "Ordinal": 20,
+              "Hits": 0
+            },
+            {
+              "Line": 24,
+              "Offset": 1118,
+              "EndOffset": 1231,
+              "Path": 1,
+              "Ordinal": 18,
+              "Hits": 0
+            },
+            {
+              "Line": 24,
+              "Offset": 1570,
+              "EndOffset": 1572,
+              "Path": 0,
+              "Ordinal": 21,
+              "Hits": 0
+            },
+            {
+              "Line": 24,
+              "Offset": 8,
+              "EndOffset": 1612,
+              "Path": 5,
+              "Ordinal": 5,
+              "Hits": 0
+            },
+            {
+              "Line": 24,
+              "Offset": 1570,
+              "EndOffset": 1641,
+              "Path": 1,
+              "Ordinal": 22,
+              "Hits": 0
+            },
+            {
+              "Line": 24,
+              "Offset": 1677,
+              "EndOffset": 1679,
+              "Path": 0,
+              "Ordinal": 23,
+              "Hits": 0
+            },
+            {
+              "Line": 24,
+              "Offset": 1710,
+              "EndOffset": 1712,
+              "Path": 0,
+              "Ordinal": 25,
+              "Hits": 0
+            },
+            {
+              "Line": 24,
+              "Offset": 8,
+              "EndOffset": 1752,
+              "Path": 6,
+              "Ordinal": 6,
+              "Hits": 0
+            },
+            {
+              "Line": 24,
+              "Offset": 1710,
+              "EndOffset": 1781,
+              "Path": 1,
+              "Ordinal": 26,
+              "Hits": 0
+            },
+            {
+              "Line": 24,
+              "Offset": 1677,
+              "EndOffset": 1790,
+              "Path": 1,
+              "Ordinal": 24,
+              "Hits": 0
+            }
+          ]
+        }
+      }
+    },
+    "C:\\Users\\noah.zemp\\source\\repos\\Study\\mslearn-tailspin-spacegame-web\\Tailspin.SpaceGame.Web\\Views\\_ViewStart.cshtml": {
+      "AspNetCore.Views__ViewStart/<ExecuteAsync>d__0": {
+        "System.Void AspNetCore.Views__ViewStart/<ExecuteAsync>d__0::MoveNext()": {
+          "Lines": {
+            "2": 0
+          },
+          "Branches": []
+        }
+      }
+    }
+  }
+}
