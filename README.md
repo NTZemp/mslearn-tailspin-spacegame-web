@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/noahzemp777/Space%20Game%20-%20web%20-%20Tests/_apis/build/status/NTZemp.mslearn-tailspin-spacegame-web?branchName=master)](https://dev.azure.com/noahzemp777/Space%20Game%20-%20web%20-%20Tests/_build/latest?definitionId=1&branchName=master)
 
 # Contributing
 
